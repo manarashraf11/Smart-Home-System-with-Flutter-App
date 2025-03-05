@@ -19,5 +19,16 @@ The Smart Home System is a comprehensive solution designed to control and monito
 - Lamb and rely for turning on /off
 - 	Ultrasound
 - ESP8266 board for IoT communication
-
+### Dependencies
+  - cupertino_icons: ^1.0.8
+ -  firebase_core: "^3.7.0"
+  - firebase_database: "^11.1.5"
+  - fl_chart: ^0.69.2
+  - syncfusion_flutter_charts: ^27.2.3
+ -  cloud_firestore: ^5.0.0
+ -  flutter_local_notifications: ^18.0.1
+ -  speech_to_text: ^7.0.0
+ -  logger: ^1.0.0  # or the latest version
+ -  permission_handler: ^11.0.0
+ -  provider: ^6.0.5
 
